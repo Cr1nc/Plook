@@ -1,9 +1,5 @@
 # Plook
- ____ _          _   
- | _ \ |___  ___| |__
- |  _/ / _ \/ _ \ / /
- |_| |_\___/\___/_\_\ 
-PasswordLOOKup Tool
+# PasswordLOOKup Tool
 
 Password lookup tool using pwndb2am4tzkvold.onion by @C41NC
 
