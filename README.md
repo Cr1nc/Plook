@@ -1,5 +1,4 @@
-# Plook
-# PasswordLOOKup Tool
+# Plook -- PasswordLOOKup Tool ;)
 
 Password lookup tool using pwndb2am4tzkvold.onion by @C41NC
 
